@@ -1,2 +1,1 @@
-# TranslateAndLearn
-翻译和学习
+记录
